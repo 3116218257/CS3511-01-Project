@@ -1,0 +1,1 @@
+python train.py --gpu_id 0 --target 3 --batch_size 4
